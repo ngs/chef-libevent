@@ -17,6 +17,6 @@
 # limitations under the License.
 #
 
-default['libev']['version'] = '2.0.20'
-default['libev']['prefix']  = '/usr'
+default['libevent']['version'] = '2.0.20'
+default['libevent']['prefix']  = '/usr'
 
